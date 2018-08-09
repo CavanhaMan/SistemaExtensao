@@ -1,0 +1,58 @@
+    1  cd cavanhaman
+    2  ls
+    3  cd d:\cavanhaman\SistemaExtensao
+    4  cd d/cavanhaman/SistemaExtensao
+    5  git init
+    6  git status
+    7  git add readme.txt
+    8  git status
+    9  git add readme.txt
+   10  git status
+   11  git status
+   12  git add README.txt
+   13  git status
+   14  git commig
+   15  git commit
+   16  git commit -m
+   17  git commit -n
+   18  git commit -m
+   19  git commit -m "arquivo inicial do sistema"
+   20  git config --global --edit
+   21  git config --global --edit
+   22  cd d/cavanhaman
+   23  cd d:/cavanhaman
+   24  ls
+   25  cd SistemaExtensao/
+   26  ls
+   27  gitbash
+   28  git log
+   29  cls
+   30  clear
+   31  git log
+   32  git status
+   33  ls
+   34  git log
+   35  edit README.txt 
+   36  ls
+   37  vi README.txt 
+   38  vi README.txt 
+   39  type README.txt 
+   40  view README.txt 
+   41  git config --global user.name "cavanhaman"
+   42  push orign master
+   43  git push orign master
+   44  push orign master
+   45  git push orign master
+   46  git config --global user.email "cavanhaman@hotmail.com"
+   47  git push orign master
+   48  git add README.txt
+   49  git remote add https://github.com/CavanhaMan/SistemaExtensao
+   50  git remote add origin https://github.com/CavanhaMan/SistemaExtensao
+   51  git push orign master
+   52  git push origin master
+   53  clear
+   54  vi README.txt 
+   55  git commit -m "modifiquei o arquivo inicial"
+   56  git push origin master
+   57  history 
+   58  history > historico.txt
